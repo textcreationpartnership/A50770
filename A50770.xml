@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The method of turning the militia of Scotland into a standing army as it is ordered by His Majesties Privy Council there.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50770</idno>
+            <idno type="STC">Wing M1948</idno>
+            <idno type="STC">ESTC R1191</idno>
+            <idno type="EEBO-CITATION">13659672</idno>
+            <idno type="OCLC">ocm 13659672</idno>
+            <idno type="VID">101073</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50770)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101073)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 795:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The method of turning the militia of Scotland into a standing army as it is ordered by His Majesties Privy Council there.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Reprinted at London according to the copy printed at Edinburgh for John Gay ... and William English ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Militia --  Proclamations.</term>
+               <term>Scotland --  Proclamations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:101073:1" rendition="simple:additions"/>
+            <head>The Method of Turning the MILITIA of <hi>SCOTLAND,</hi> INTO A Standing ARMY, As it is Ordered by His Majeſties Privy Council there.</head>
+            <p>FOraſmuch, as the King's Majeſty, taking to Conſideration, that by Act of Parliament in the Year 1663. the Eſtates of Parliament did then heartily offer unto His Majeſty, the number of Twenty thouſand Footmen, and Two thouſand Horſemen, ſufficiently armed and fur<g ref="char:EOLhyphen"/>niſhed, with Forty days Proviſion, to be raiſed in the ſeveral Shires of the Kingdom, according to the proportions mentioned in that Act. And ſeeing by Act of Parliament in the Year 1669. the Countrey is to pay the Horſemen at Eighteen ſhilling, and the Footmen at 6 ſhilling Scots <hi>per diem,</hi> for every day that they appear at any Rendezvous or Muſter yearly; to the effect the Soldiers may be Exerciſed, and may thereby underſtand the Diſcipline of War: And that if His Majeſty ſhall call them together for His Service, the Coun<g ref="char:EOLhyphen"/>trey is obliged to furniſh them with Forty days Proviſion or Pay. In proſecu<g ref="char:EOLhyphen"/>tion whereof, the Lords of Privy Council for the time, to whom the Parlia<g ref="char:EOLhyphen"/>ment by their Act did remit the particular ordering and ſettlement of this matter, did by their ſeveral Acts, put in Execution the ſaid Act of Parliament, by reducing theſe Forces of Horſe and Foot, to formed Troops and Regi<g ref="char:EOLhyphen"/>ments; and by His Majeſties Special Warrant, did preſcribe the way for na<g ref="char:EOLhyphen"/>ming and placing all the inferior Officers of Horſe and Foot, the chief Offi<g ref="char:EOLhyphen"/>cers being Commiſſionate by His Majeſty, as their Acts made thereanent, and the inſtructions given to them for that purpoſe, more fully bear. And whereas His Majeſty by a Letter under His Royal Hand directed to. His Council, of the date of the 26 of <hi>October</hi> 1678. thought fit for this Service, and the preſent Exigent of Affairs, to appoint Five thouſand Foot, and Five hundred Horſe, of the number of the Twenty thouſand Foot, and Two thouſand Horſe abovementioned, to be drawn out of the ſeveral Shires and Burghs of this Kingdom, being a 4th part of the whole, not including the Militia Regiment of the good Town of <hi>Edinburgh,</hi> as any part of this number. And did ap<g ref="char:EOLhyphen"/>point theſe Foot to be divided into five Regiments, and the Horſe into five Troops, and each Regiment conſiſting of ten Companies, to be commanded by a Major, and each Company to have a Lieutenant, Enſign, and two Serjeants; each Troop of Horſe to have a Lieutenant, and four Corporals; and to whom, for their encouragement, His Majeſty hath appointed competent yearly Salaries. And to the end this His Majeſties Royal Reſolution might not be miſtaken, thought fit to declare, That thereby He did not intend to put the Countrey to any greater Charge, than what they ſtand already obliged by Acts of Parliament yearly. And by this His intention, does not reſolve to lay aſide the yearly Rendezvous of the reſt of the Militia of this Kingdom, Horſe and Foot, as formerly. In Obedience, and Conform to which Letter, and His Majeſties other Letters direct to His Privy Council ſince the ſaid Letter relative thereto, The Lords of His Majeſties Privy Council have Ordained, and Ordain Five thouſand Foot, and Five hundred Horſe, of the number of theſe Twenty thouſand Foot, and Two thouſand Horſe of the Militia, Eſtabliſhed by Act of Parliament, to be drawn out of the ſeveral Shires and Burghs of this Kingdom, being a 4th part. of the whole, not including the Militia of the Town of <hi>Edinburgh,</hi> according to the Rule of Proportion, and hath made a particu<g ref="char:EOLhyphen"/>lar diviſion thereof, and given inſtructions to the Commiſſioners of the Militia in manner aftermentioned; All which is Ratified and Approven by His Majeſty.</p>
+            <div type="instructions">
+               <pb facs="tcp:101073:2"/>
+               <head>Follows the Inſtructions given by His Majeſties Privy Council, to the Commiſſioners of the Militia, in the ſeveral Shires of the Kingdom.</head>
+               <p n="1">I. You are ordered to Stent the number of Horſemen and Footmen upon the Paroches, Heretors, and Liferenters in your Shire, in the uſual man<g ref="char:EOLhyphen"/>ner, having always a care to pitch upon ſuch as may conſtantly attend upon the Service.</p>
+               <p n="2">II. You are to cauſe Liſt the Names of the Souldiers, both Horſe and Foot, and ſet down the names of their Parents, Deſignations, and dwellings-places, and to Rank them in their reſpective Companies, and to deliver theſe Liſts to the reſpective Leiutenants.</p>
+               <p n="3">III. You are to change no Souldier, Horſe or Foot, for another, without expreſs conſent of the Lieutenant, who is to be anſwerable to his Major for what he does thereanent; and both the Major and Leiutenant are to obey the Lieutenant-General, or Commander in Chief of his Majeſties Forces, as they will be anſwerable.</p>
+               <p n="4">IV. You are to order, that no Horſe once received and liſted, be changed, without conſent of the Leiuetenant, and the allowance of his ſuperior Officer.</p>
+               <p n="5">V. You are to choice and liſt new Souldiers, in place of theſe who ſhall be removed by Death, or infirmity, or ſhall remove off the Ground, and ſend their names to their Leiutenants; and that theſe new liſted Souldiers be ſuf<g ref="char:EOLhyphen"/>ficient men for the Service, conform to the firſt Act of the ſecond Seſſion <hi>Par<g ref="char:EOLhyphen"/>liament</hi> 2. <hi>Charles</hi> 2.</p>
+               <p n="6">VI. You are to appoint all theſe liſted within your Shire, to Rendezvous once in two Months, and to keep together eight days, at ſuch Times and Places within the Shire, as the Major of Foot or the Lieutenant of Horſe ſhall appoint; and if the Rendezvous be without the Shire at ſuch Times and Places as the Leiutenant-General, or Commander in Chief ſhall appoint; and the keeping of the Rendezvous once in two Months eight days together ſhall continue, until the Commander in Chief ſhall order it otherwiſe.</p>
+               <p n="7">VII. You are to order the Heretors to give allowance to the Horſemen and Foot Souldiers, for keeping the ſaid days of Rendezvous of eight days, once every two Months, and that for ten Months (His Majeſty being to pay them for the laſt two Months) at the rate of ſix Shillings <hi>Scots</hi> a day for ilk Foot<g ref="char:EOLhyphen"/>man, and eighteen Shillings <hi>Scots</hi> for each Horſeman, conform to Act of <hi>Par<g ref="char:EOLhyphen"/>liament:</hi> And ready obedience is expected hereto, ſeeing they are at no more expence by paying fourty days to this number, then they were at for<g ref="char:EOLhyphen"/>merly, by paying ten days to the whole, which they either did, or ſhould have done.</p>
+               <p n="8">VIII. You are to take care that both Horſmen and Footmen be ſufficiently cloathed, fitted with all kind of furniture neceſſar for the ſervice; and that the Arms for the Foot, be two parts Muſquets, and one part Pikes; and the Horſemen to be armed with a ſufficient Sword, and Hulſter-Piſtols.</p>
+               <p n="9">IX. Each Leader of Horſe is to furniſh and uphold a ſufficient Horſe with his Furniture, for the ſpace of ſeven Years from their firſt Muſter; and at the expiring of the ſeven Years, He and theſe of the Fraction with him are to contribute for another Horſe, not under the value of ten pounds <hi>Sterling,</hi> and fifty eight Inches high, and that a Horſe be provided accordingly, and ſo forth at the expiring of each ſeven Years <hi>ſucceſſive.</hi>
+               </p>
+               <p n="10">X. You are to be careful that the perſons to be liſted for the Militia, Horſe or Foot, ſhall be able bodies of Men, fit for the ſervice; and that they be ſuch as the Muſter-maſter ſhall approve of, and who ſhall take the Military Oaths appointed by Act of Council, each Rendezvous day, and ſuch Oaths as are contained in the Articles of War.</p>
+               <p n="11">XI. The Heretors of your Shire are to pay their proportion of fourty eight
+<pb facs="tcp:101073:2"/>pound <hi>Scots</hi> to the Trumpeter, with the other ſhires who are joyned with them in conſtituting the Troop: As alſo, Your ſhire is to pay twelve pound <hi>Scots</hi> to every Drummer who ſerves in the Companies within your Shire, conform to the Act of <hi>Parliament.</hi>
+               </p>
+               <p n="12">XII. And ſince His Majeſty has under his Royal Hand, given Commiſſions to Majors<g ref="char:punc">▪</g> Leiutenants, and Enſigns of Foot, and to the Lieutenants of Horſe; and has declared it his Pleaſure, that the Leiutenants of Horſe and Foot ſhall chooſe their own Corporals and Sergeants: Therefore you are to give your concurrence to them in their reſpective ſtations.</p>
+               <p n="13">XIII. You are to appoint two of your number <hi>per vices,</hi> to attend the firſt day of each Rendezvous within your Shire, and one of your number to attend the general Rendezvous of your Regiment or Troop when they come toge<g ref="char:EOLhyphen"/>ther, it being neceſſar, that there be one Commiſſioner preſent for every Shire out of which the Regiment or Troop is taken, to the effect they may give order for fining and puniſhing the Abſents, and for proceeding againſt all Deficients, and for performance of every thing elſe incumbent to them, con<g ref="char:EOLhyphen"/>form to the Acts of <hi>Parliament</hi> and Council made thereanent, as well in every Company of Foot and Squad of Horſe, as when the whole Regiment and Troop are together.</p>
+               <p n="14">XIV. Theſe two Commiſſioners, with the concurrence of the Command<g ref="char:EOLhyphen"/>ing Officer preſent for the time of the Foot-Company, or Squadron of Horſe, or Corporalſhip, and of the Major of Foot and Lieutenant of Horſe, or other Commanding-officer preſent, when the Regiment of Foot, or Troop of Horſe is together; are carefully to cauſe poynd every Deficient and other Tranſgreſſors, conform to the Acts of <hi>Parliament</hi> and Council anent the Militia: Hereby requiring the ſaids Commiſſioners to do exact diligence herein, as they will be anſwerable at their outmoſt peril. And certifying theſe Commiſſioners who ſhall be abſent, or being preſent, ſhall neglect their duty, hereby, and by Act of <hi>Parliament</hi> intruſted to them, ſhall be proceeded againſt as Contemners of his Majeſties Authority and Service, and neglecters of the publick Peace of the Kingdom.</p>
+               <p n="15">XV. The Commiſſioners of the Militia on the South ſide of the North Water of Esk, in the ſeveral Shires of the Kingdom, are appointed to have their firſt meeting at the head Burgh of the Shire, upon the fifteen day of <hi>July</hi> next, and the Militia thereof, to have their firſt Rendezvous upon the thir<g ref="char:EOLhyphen"/>teenth of <hi>Auguſt</hi> thereafter. And the Commiſſioners benorth the ſaid Water, are to have their firſt meeting upon the tenth of <hi>Auguſt,</hi> and the Militia there<g ref="char:EOLhyphen"/>of to have their firſt Rendezvous upon the 24. of <hi>Aug.</hi> And the Commiſſi<g ref="char:EOLhyphen"/>oners on the ſouth ſide of the ſaid Water, are to give an account what they do at their firſt meeting to the Council, upon the firſt Council day of <hi>Auguſt,</hi> and to give the ſecond account of the condition of their firſt Rendezvous, againſt the firſt Council day in <hi>September.</hi> And theſe benorth the ſaid water, are to give an account what they do at their firſt meeting, the firſt Council day in <hi>September;</hi> and the ſecond account of the condition of the firſt Rendezvous, the firſt Council day in <hi>October</hi> next.</p>
+               <p n="16">XVI. The Commiſſioners of the Militia of the ſeveral Shires at their firſt meeting, are to appoint the place of the firſt Rendezvous in every Shire, and to acquaint the perſon of Quality afternamed, who is appointed to be pre<g ref="char:EOLhyphen"/>ſent thereat.</p>
+               <p n="17">XVII. The Perſons of Quality afternamed, are appointed to conveen the Commiſſioners of the Militia to their firſt meeting, and to be preſent thereat, and to go to the ſeveral ſhires, and ſee the firſt Rendezvous keeped, and give an account thereof to the Council.</p>
+               <p n="18">XVIII. His Majeſties Privy Council have appointed, and appoints, that in the ſhires of <hi>Roſs, Sutherland, Caithneſs,</hi> and <hi>Orkney,</hi> which had not former<g ref="char:EOLhyphen"/>ly a Militia ſettled therein, the Juſtices of Peace, and Commiſſioners of Ex<g ref="char:EOLhyphen"/>ciſe, be Commiſſioners of the Militia.</p>
+               <closer>
+                  <signed>Extracted by me <hi>WILL. PATERSON,</hi> Cl. Sti. Concilii.</signed>
+               </closer>
+            </div>
+            <div n="additional" type="instructions">
+               <pb facs="tcp:101073:3" rendition="simple:additions"/>
+               <head>Additional Inſtructions for the <hi>Militia.</hi>
+               </head>
+               <opener>
+                  <dateline>
+                     <hi>Edinburgh,</hi> 
+                     <date>the Eighth day of <hi>July,</hi> 1680.</date>
+                  </dateline>
+               </opener>
+               <p n="1">I. THE Lords of His Majeſties Privy Council conſidering, that by the firſt Article of the late Inſtructions, the Heretors and Liferenters are ordered to Stent the number of Horſe and Foot in the uſual way, do Declare, That albeit according to the Act of Parliament, the Heretors and Liferenters be liable thereto, yet they are to have their re<g ref="char:EOLhyphen"/>lief from the Tenants, whoſe proper Burden it is to furniſh the Bodies of the Footmen and their Arms, and Pay, during the days of the Rendezvous; and the Heretors may accordingly force any of their Tenants or Servants who are fitteſt, the reſt of the Tenants contributing for their ſeveral Proportions, in the way formerly accuſtomed, either by Paroches, or otherwiſe, according as has been uſed in the reſpective Shires.</p>
+               <p n="2">II. As to the third and fourth Articles of the ſaid Inſtructions, whereby it is appointed, that no Soldier, Horſe, or Foot, be changed for another, and that no Horſe once received and liſted, be changed without conſent of the Lieutenant, it is ordered that no ſuch change be made, without expreſs conſent of the Lieu<g ref="char:EOLhyphen"/>tenant, and two Commiſſioners of the Militia.</p>
+               <p n="3">III. As to the ſixth Article of the Inſtructions, where it is appointed, that Ren<g ref="char:EOLhyphen"/>dezvous be kept eight days every two Months, for the ſpace of ten Months: It is Ordained, that the firſt Rendezvous ſhall meet for this year, as is formerly appointed, <hi>viz.</hi> upon the 13th, and 24th of <hi>Auguſt</hi> reſpective, and to con<g ref="char:EOLhyphen"/>tinue together for eight days; and the next Rendezvous to begin the firſt Wedneſday of <hi>October,</hi> and to continue together ſixteen days; and for the ſubſequent Years, it is appointed that the firſt Rendezvous ſhall begin the firſt Wedneſday of <hi>June,</hi> and to continue for ſixteen days; and the next Ren<g ref="char:EOLhyphen"/>dezvous to be upon the firſt Wedneſday of <hi>October,</hi> and to continue then like<g ref="char:EOLhyphen"/>wiſe for ſixteen days, and ſo forth to continue yearly thereafter; which two Rendezvouſes compleats the 32 days, payable by the Countrey.</p>
+               <p n="4">IV. As to the Ninth Article, It is appointed, that the Militia Horſe be worth Ten Pound Sterling, Conform to the Act of Parliament, and be 58 inches high; at leaſt, that the Horſe be ſufficient ſize, fit for ſervice.</p>
+               <p n="5">V. It is hereby declared, That theſe that are liable in the Fraction, ſhall pay to the Leaders of Horſe, and Outreikers of Foot, their proportional parts of what is due for the Pay both of Horſe and Foot, during the whole time they ſtay at the Rendezvouſes.</p>
+               <p n="6">VI. Whereas, ſince the Act of Parliament in the Year 1663, Eſtabliſhing the Mi<g ref="char:EOLhyphen"/>litia, by which there are 800 Foot, and 88 Horſe, appointed for the Shire of <hi>Dumfreis,</hi> there is a late Act of Parliament disjoining the Militia of the five Kirks of <hi>Eskdale</hi> from the ſaid Shire, and uniting the ſame to the Militia of <hi>Roxburgh,</hi> whoſe proportion of the great Militia, is One hundreth Foot and ten Horſe, the Lords of Council Ordain the proportion of the New Model'd Mi<g ref="char:EOLhyphen"/>litia of theſe two Shires to be regular accordingly.</p>
+               <closer>
+                  <signed>Extracted by me <hi>Will. Paterſon,</hi> Cl. Sti. Concilii.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Reprinted at <hi>London</hi> (according to the Copy printed at <hi>Edinburgh</hi>) for <hi>John Gay</hi> in <hi>Fleet-ſtreet,</hi> and <hi>William Engliſh</hi> in <hi>Chancery lane.</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
